@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menaka</h1>
-<h3 align="center">A passionate Trainee DevOps from Srilanka</h3>
+<h3 align="center">A passionate Trainee Network Engineer from Srilanka</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=menaka355&label=Profile%20views&color=0e75b6&style=flat" alt="menaka355" /> </p>
  <div align="center">
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Still Learning**
 
-- 🌱 I’m currently learning **Jenkins,Kubernetes**
+- 🌱 I’m currently learning **Cisco Packet Tracer,Wireshark**
 
 - 👯 I’m looking to collaborate on **Projects related to My Curriculum**
 
